@@ -1,1 +1,4 @@
 
+[submodule "Bat_llama.cpp"]
+	path = Bat_llama.cpp
+	url = https://github.com/Deadsg/Bat_llama.cpp
